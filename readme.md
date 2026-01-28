@@ -2,6 +2,8 @@
 
 A simple, responsive website built with HTML and CSS.
 
+![Main Webpage](./images/web.png)
+
 ## Description
 
 This project is a static website showcasing modern web design principles using pure HTML and CSS. It features a clean, responsive layout that works across different screen sizes and devices.
